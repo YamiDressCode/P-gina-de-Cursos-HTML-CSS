@@ -1,4 +1,4 @@
-Rendezvous Gourmet
+CURSOS DE PYTHON
 
 Índice
 
@@ -16,13 +16,13 @@ Rendezvous Gourmet
 
 Descrição
 
-Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar um restaurante chamado "Rendezvous Gourmet". O site exibe pratos promocionais, opções de reserva e entrega, e é um ótimo exemplo de um template inicial para sites de pequenas empresas.
+Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar uma escola chamado CURSOS DE PYTHON. O site exibe pratos promocionais, opções de reserva e entrega, e é um ótimo exemplo de um template inicial para sites de pequenas empresas.
 
 Funcionalidades
 
 Responsividade: Layout adaptável para diferentes tamanhos de tela (desktop, tablet e mobile).
 Design Atraente: Utiliza cores escuras e imagens vibrantes para atrair a atenção dos visitantes.
-Navegação Simples: Links para seções como Pratos, Reservas, Sobre Nós e Contato.
+Navegação Simples: Links para seções como Introdução,Automação,Análise de dados e Python para web.
 Seções Destacadas: Exibe pratos promocionais e informações sobre reservas e delivery.
 Layout
 
