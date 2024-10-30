@@ -50,6 +50,6 @@ Como Usar
 
 Clone o repositório:
 
-bash [https://github.com/YamiDressCode/Cursos.git](https://github.com/YamiDressCode/P-gina-de-Cursos-HTML-CSS.git)
+bash [[https://github.com/YamiDressCode/Cursos.git](https://github.com/YamiDressCode/P-gina-de-Cursos-HTML-CSS.git)](https://github.com/YamiDressCode/P-gina-de-Cursos-HTML-CSS.git)
 
 Autores Desenvolvido por: Leandro Roriz Fidalgo, Luis Andre Moura, Emanuel Moreira Dos Anjos
